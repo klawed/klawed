@@ -93,21 +93,7 @@
   </tr>
 </table>
 
-<div style="background: linear-gradient(135deg, #4158D0, #C850C0); padding: 20px; border-radius: 10px; margin: 30px 0;">
-  <h2 style="color: white; margin-top: 0;">AI & Advanced Tools</h2>
-</div>
 
-<table>
-  <tr>
-    <td>
-      <div style="background: linear-gradient(135deg, #7F7FD5, #91EAE4); padding: 15px; border-radius: 8px;">
-        <h3><a href="https://github.com/klawed/litelim" style="color: white; text-decoration: none;">🧠 LiteLIM</a></h3>
-        <p>Call all LLM APIs using the OpenAI format. Use Bedrock, Azure, OpenAI, Cohere, Anthropic, Ollama, Sagemaker, HuggingFace, Replicate (100+ LLMs)</p>
-        <p><strong>Tech:</strong> Python, AI/ML, LLM Integration</p>
-      </div>
-    </td>
-  </tr>
-</table>
 
 <div style="background: linear-gradient(135deg, #DD5E89, #F7BB97); padding: 20px; border-radius: 10px; margin: 30px 0;">
   <h2 style="color: white; margin-top: 0;">Mobile & iOS Development</h2>
