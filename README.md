@@ -16,26 +16,26 @@
     <td>
       <div style="background: linear-gradient(135deg, #36d1dc, #5b86e5); padding: 15px; border-radius: 8px;">
         <h3><a href="https://github.com/klawed/esp-sensor-hub" style="color: white; text-decoration: none;">📊 ESP Sensor Hub</a></h3>
-        <p>A comprehensive, production-ready sensor hub platform built on ESP32/ESP8266 microcontrollers. Features multiple sensor support, cloud connectivity, and edge computing capabilities.</p>
-        <p><strong>Tech:</strong> C++, ESP32, PlatformIO, MQTT, AWS IoT</p>
+        <p>ESP32/ESP8266 Smart Home Sensor Hub with Production-Ready Features</p>
+        <p><strong>Tech:</strong> Python, ESP32, PlatformIO, MQTT, AWS IoT</p>
       </div>
     </td>
   </tr>
   <tr>
     <td>
       <div style="background: linear-gradient(135deg, #11998e, #38ef7d); padding: 15px; border-radius: 8px;">
-        <h3><a href="https://github.com/klawed/esp-energy-monitor" style="color: white; text-decoration: none;">⚡ ESP Energy Monitor</a></h3>
-        <p>ESP32/ESP8266-based energy monitoring system for residential and commercial applications. Tracks power usage, detects anomalies, and provides real-time dashboards.</p>
-        <p><strong>Tech:</strong> C++, ESP32, PlatformIO, WiFi, MQTT</p>
+        <h3><a href="https://github.com/klawed/esp-home-automation" style="color: white; text-decoration: none;">🏠 ESP Home Automation</a></h3>
+        <p>Production-ready ESP32/ESP8266 home automation system with multi-sensor support and secure cloud integration.</p>
+        <p><strong>Tech:</strong> ESP32, PlatformIO, MQTT, Cloud APIs</p>
       </div>
     </td>
   </tr>
   <tr>
     <td>
       <div style="background: linear-gradient(135deg, #ff9966, #ff5e62); padding: 15px; border-radius: 8px;">
-        <h3><a href="https://github.com/klawed/esp-home-automation" style="color: white; text-decoration: none;">🏠 ESP Home Automation</a></h3>
-        <p>Production-ready ESP32/ESP8266 home automation system with multi-sensor support and secure cloud integration. Control lights, climate, and appliances from anywhere.</p>
-        <p><strong>Tech:</strong> C++, ESP32, PlatformIO, MQTT, Cloud APIs</p>
+        <h3><a href="https://github.com/klawed/esp-energy-monitor" style="color: white; text-decoration: none;">⚡ ESP Energy Monitor</a></h3>
+        <p>ESP32/ESP8266-based energy monitoring system for residential and commercial applications.</p>
+        <p><strong>Tech:</strong> ESP32, PlatformIO, WiFi, MQTT</p>
       </div>
     </td>
   </tr>
@@ -43,7 +43,7 @@
     <td>
       <div style="background: linear-gradient(135deg, #4facfe, #00f2fe); padding: 15px; border-radius: 8px;">
         <h3><a href="https://github.com/klawed/ada-lcd-wrapper" style="color: white; text-decoration: none;">🖥️ Adafruit LCD Wrapper</a></h3>
-        <p>A JavaScript wrapper for Adafruit I2C LCD library, making it easier to use LCD displays with microcontrollers.</p>
+        <p>A wrapper for this excellent library: https://github.com/fehmer/adafruit-i2c-lcd</p>
         <p><strong>Tech:</strong> JavaScript, Node.js, I2C, Hardware Interfaces</p>
       </div>
     </td>
@@ -52,8 +52,17 @@
     <td>
       <div style="background: linear-gradient(135deg, #a18cd1, #fbc2eb); padding: 15px; border-radius: 8px;">
         <h3><a href="https://github.com/klawed/ada-lcd-keypad" style="color: white; text-decoration: none;">🎛️ Adafruit LCD Keypad</a></h3>
-        <p>Interface library for LCD displays with attached keypads, perfect for creating interactive hardware projects.</p>
+        <p>LCD Keypad interface library for hardware projects</p>
         <p><strong>Tech:</strong> JavaScript, Node.js, Hardware Interfaces</p>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div style="background: linear-gradient(135deg, #43C6AC, #191654); padding: 15px; border-radius: 8px;">
+        <h3><a href="https://github.com/klawed/led-sign" style="color: white; text-decoration: none;">💡 LED Sign</a></h3>
+        <p>Various libraries for LED sign interfaces</p>
+        <p><strong>Tech:</strong> C#, Hardware Interfaces, LED Control</p>
       </div>
     </td>
   </tr>
@@ -68,33 +77,58 @@
     <td>
       <div style="background: linear-gradient(135deg, #667eea, #764ba2); padding: 15px; border-radius: 8px;">
         <h3><a href="https://github.com/klawed/browl" style="color: white; text-decoration: none;">🌐 Browl</a></h3>
-        <p>An open-source web browsing enhancement tool with advanced features and privacy protections.</p>
-        <p><strong>Tech:</strong> JavaScript, Browser Extensions, Privacy Tools</p>
+        <p>An open-source web browsing tool</p>
+        <p><strong>Tech:</strong> Web Technologies, Browser Integration</p>
       </div>
     </td>
   </tr>
   <tr>
     <td>
       <div style="background: linear-gradient(135deg, #0ba360, #3cba92); padding: 15px; border-radius: 8px;">
-        <h3><a href="https://github.com/klawed/sloth-util" style="color: white; text-decoration: none;">🦥 Sloth Utilities</a></h3>
-        <p>AWS Lambda utilities for microservices - providing reusable functions like random quote generation via Bedrock LLM.</p>
-        <p><strong>Tech:</strong> Java, AWS Lambda, Bedrock LLM, Microservices</p>
+        <h3><a href="https://github.com/klawed/veditor" style="color: white; text-decoration: none;">🎬 VEditor</a></h3>
+        <p>Video editing application built with React+TypeScript. Makes use of FFMPEG-WASM</p>
+        <p><strong>Tech:</strong> TypeScript, React, FFMPEG-WASM</p>
       </div>
     </td>
   </tr>
 </table>
 
 <div style="background: linear-gradient(135deg, #4158D0, #C850C0); padding: 20px; border-radius: 10px; margin: 30px 0;">
-  <h2 style="color: white; margin-top: 0;">Data Analysis & Utilities</h2>
+  <h2 style="color: white; margin-top: 0;">AI & Advanced Tools</h2>
 </div>
 
 <table>
   <tr>
     <td>
-      <div style="background: linear-gradient(135deg, #43C6AC, #191654); padding: 15px; border-radius: 8px;">
-        <h3><a href="https://github.com/klawed/mermaid_disk_usage" style="color: white; text-decoration: none;">📊 Mermaid Disk Usage</a></h3>
-        <p>A Go utility that generates Mermaid diagrams visualizing disk usage, helping identify large files and directories.</p>
-        <p><strong>Tech:</strong> Go, Mermaid, Visualization, System Tools</p>
+      <div style="background: linear-gradient(135deg, #7F7FD5, #91EAE4); padding: 15px; border-radius: 8px;">
+        <h3><a href="https://github.com/klawed/litelim" style="color: white; text-decoration: none;">🧠 LiteLIM</a></h3>
+        <p>Call all LLM APIs using the OpenAI format. Use Bedrock, Azure, OpenAI, Cohere, Anthropic, Ollama, Sagemaker, HuggingFace, Replicate (100+ LLMs)</p>
+        <p><strong>Tech:</strong> Python, AI/ML, LLM Integration</p>
+      </div>
+    </td>
+  </tr>
+</table>
+
+<div style="background: linear-gradient(135deg, #DD5E89, #F7BB97); padding: 20px; border-radius: 10px; margin: 30px 0;">
+  <h2 style="color: white; margin-top: 0;">Mobile & iOS Development</h2>
+</div>
+
+<table>
+  <tr>
+    <td>
+      <div style="background: linear-gradient(135deg, #1D976C, #93F9B9); padding: 15px; border-radius: 8px;">
+        <h3><a href="https://github.com/klawed/iOS-String-Tuner" style="color: white; text-decoration: none;">🎸 iOS String Tuner</a></h3>
+        <p>Open Source iOS Guitar Tuner</p>
+        <p><strong>Tech:</strong> Objective-C++, iOS Development, Audio Processing</p>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div style="background: linear-gradient(135deg, #c94b4b, #4b134f); padding: 15px; border-radius: 8px;">
+        <h3><a href="https://github.com/klawed/pitchcount" style="color: white; text-decoration: none;">⚾ PitchCount</a></h3>
+        <p>Pitchcount app for iOS4</p>
+        <p><strong>Tech:</strong> Objective-C, iOS Development</p>
       </div>
     </td>
   </tr>
