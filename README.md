@@ -1,7 +1,7 @@
 # @klawed's GitHub Projects
 
 <div align="center">
-  <img src="https://i.imgur.com/l0Jljx7.png" alt="klawed Logo" width="200">
+ 
   <h3>Exploring Code and Creating Solutions</h3>
 </div>
 
