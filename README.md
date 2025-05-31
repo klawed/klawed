@@ -72,26 +72,7 @@
   <h2 style="color: white; margin-top: 0;">Web & Application Projects</h2>
 </div>
 
-<table>
-  <tr>
-    <td>
-      <div style="background: linear-gradient(135deg, #667eea, #764ba2); padding: 15px; border-radius: 8px;">
-        <h3><a href="https://github.com/klawed/browl" style="color: white; text-decoration: none;">🌐 Browl</a></h3>
-        <p>An open-source web browsing tool</p>
-        <p><strong>Tech:</strong> Web Technologies, Browser Integration</p>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div style="background: linear-gradient(135deg, #0ba360, #3cba92); padding: 15px; border-radius: 8px;">
-        <h3><a href="https://github.com/klawed/veditor" style="color: white; text-decoration: none;">🎬 VEditor</a></h3>
-        <p>Video editing application built with React+TypeScript. Makes use of FFMPEG-WASM</p>
-        <p><strong>Tech:</strong> TypeScript, React, FFMPEG-WASM</p>
-      </div>
-    </td>
-  </tr>
-</table>
+
 
 
 
