@@ -1,4 +1,4 @@
-# @klawed's GitHub Projects
+# Projects
 
 <div align="center">
  
